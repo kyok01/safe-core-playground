@@ -1,6 +1,15 @@
 # Getting Started with Create React App
+I made this project to try some features of [Safe{Core}](https://docs.safe.global/learn/safe-core).
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Prerequisites
+ - Node.js and npm
+ - [Create a Web3Auth account](https://web3auth.io/)
+
+## Set Environments
+```
+cp .env.example .env
+```
 
 ## Available Scripts
 
